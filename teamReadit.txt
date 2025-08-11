@@ -1,0 +1,33 @@
+Our Initial Use Cases:
+
+1. Crop Disease Diagnosis (Combines image + text input)
+2. Soil Health & Irrigation tips (Mostly Text based hoga)
+3. Government Scheme Awareness (Getting the retravel based answers LOW COMPUTE needs)
+
+Know about Users who gonna use our application:
+Farmers 
+
+Our chatbot will serve:
+Farmers (low digital literacy, prefer voice or simple UI)
+Languages: Hindi, Marathi, Telugu, Kumaouni , Garhwali , Punjabi etc..
+Devices: Low-end smartphones, often offline
+
+Iska matlab hamara chatbot must be:
+
+Multilingual
+Voice-enabled
+Lightweight and offline-capable
+
+staring with 3. 
+
+My Initial Tech Stack
+
+LLM : Pretrained model like IndicBERT or Mistral  
+Backend : FastAPI 
+Frontend : Streamlit  
+Database : None for now 
+Language Support : Bhashini API or Hugging Face’s IndicBERT 
+Deployment : Localhost or Streamlit Cloud 
+
+
+
